@@ -1,4 +1,4 @@
-## This A Prototype Fdroid REpo from a guy barley knows to code
+## This A Prototype Fdroid Repo from a guy barley knows to code
 
 You can use the [editor on GitHub](https://github.com/Rihcus/bbfd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
